@@ -9,7 +9,7 @@ unsigned long Value22 = 0xFF28D7;    // All off / Все выключает
 unsigned long Value23 = 0xFF38C7;    // Up and doun / Лесенка
 unsigned long Value24 = 0xFFF00F;    // Up and doun 1000 times Лесенка 1000 раз
 
-int pin[] = {22, 24, 26, 28, 30, 32, 34, 36, 0, 0, 0, 0, 0, 0, 0, 0};  //  Set pins / Установка пинов
+int pin[] = {22, 23, 24, 25, 26, 27, 28, 29, 0, 0, 0, 0, 0, 0, 0, 0};  //  Set pins / Установка пинов
 
 int relay[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};  // State of relays / Переменные состояния реле
 
